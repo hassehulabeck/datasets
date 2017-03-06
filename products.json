@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Borrmaskin AT-7",
-        "description": `Marknadens bästa budget-borr. En fröjd för ögat och själen. Kan användas även vid våtrumsarbete. Två års garanti.`,
+        "description": "Marknadens bästa budget-borr. En fröjd för ögat och själen. Kan användas även vid våtrumsarbete. Två års garanti.",
         "inStock": true,
         "watt": 400,
         "manufacturer": "Toshiba",
@@ -16,7 +16,7 @@
     {
         "id": 2,
         "name": "Hammare Gustav IV",
-        "description": `Frukten av långt utvecklingsarbete har lett fram till denna formfulländade hammare. Varje hemma-snickares dröm med skaft i lagrad ek.`,
+        "description": "Frukten av långt utvecklingsarbete har lett fram till denna formfulländade hammare. Varje hemma-snickares dröm med skaft i lagrad ek.",
         "inStock": true,
         "manufacturer": "Black & Decker",
         "imageUrl": "",
@@ -29,7 +29,7 @@
     {
         "id": 3,
         "name": "Sandblästrare ZC801E",
-        "description": `Bara det bästa är gott nog för den som ska blästra. Från Korea kommer klassens bästa apparat, med pris från årets CEBIT-mässa.`,
+        "description": "Bara det bästa är gott nog för den som ska blästra. Från Korea kommer klassens bästa apparat, med pris från årets CEBIT-mässa.",
         "inStock": true,
         "watt": 1200,
         "manufacturer": "Samsung",
@@ -43,7 +43,7 @@
     {
         "id": 4,
         "name": "Hammare Cassius-Brutus",
-        "description": `Passar väl till både nybörjaren som letar efter sin första hammare, såväl som för den mer erfarne som vill ha en gedigen brukshammare.`,
+        "description": "Passar väl till både nybörjaren som letar efter sin första hammare, såväl som för den mer erfarne som vill ha en gedigen brukshammare.",
         "inStock": false,
         "manufacturer": "Black & Decker",
         "imageUrl": "",
@@ -56,7 +56,7 @@
     {
         "id": 5,
         "name": "Vinkelslip G3",
-        "description": `En dröm att hantera, enligt många. Vinkelslipen från Tyskland har tagit utlandet med storm och finns nu i Sverige. Passa på!`,
+        "description": "En dröm att hantera, enligt många. Vinkelslipen från Tyskland har tagit utlandet med storm och finns nu i Sverige. Passa på!",
         "inStock": true,
         "watt": 600,
         "manufacturer": "Siemens",
@@ -70,7 +70,7 @@
     {
         "id": 11,
         "name": "Verktygsbälte Fredman",
-        "description": `Bälte i läder, med öljetter i mässingsimitation. 12cm striglingsyta och med fyra stora fack och tre små.`,
+        "description": "Bälte i läder, med öljetter i mässingsimitation. 12cm striglingsyta och med fyra stora fack och tre små.",
         "inStock": true,
         "manufacturer": "Hultafors",
         "imageUrl": "",
@@ -83,7 +83,7 @@
     {
         "id": 12,
         "name": "Fogsvans UL92",
-        "description": `Handtag i PVC. Blad i rostfritt kolstål. Säkerhetsklass III. En såg som matchar dina höga behov.`,
+        "description": "Handtag i PVC. Blad i rostfritt kolstål. Säkerhetsklass III. En såg som matchar dina höga behov.",
         "inStock": false,
         "manufacturer": "Electrolux",
         "imageUrl": "",
@@ -96,7 +96,7 @@
     {
         "id": 13,
         "name": "Multimeter Faxe",
-        "description": `Dagens bästa köp. Multimeter med alla tolv vanliga mätinställningar samt förkromade kontakter och extra lång batteritid.`,
+        "description": "Dagens bästa köp. Multimeter med alla tolv vanliga mätinställningar samt förkromade kontakter och extra lång batteritid.",
         "inStock": true,
         "manufacturer": "Texas instruments",
         "imageUrl": "",
@@ -109,7 +109,7 @@
     {
         "id": 15,
         "name": "Dammsugare Bavaria Blue",
-        "description": `Lättviktsdammsugare med känsla av kvalitet. Tre separata reglage styr insugskraften och dubbla turbo-aggregat ser till att det blir rent på nolltid.`,
+        "description": "Lättviktsdammsugare med känsla av kvalitet. Tre separata reglage styr insugskraften och dubbla turbo-aggregat ser till att det blir rent på nolltid.",
         "inStock": true,
         "watt": 1800,
         "manufacturer": "Panasonic",
@@ -123,7 +123,7 @@
     {
         "id": 16,
         "name": "Knivslip Runar",
-        "description": `svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.`,
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
         "inStock": false,
         "manufacturer": "Hultafors",
         "imageUrl": "",
