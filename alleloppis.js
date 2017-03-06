@@ -1,0 +1,201 @@
+const loppis = [
+    {
+        'id': 1,
+        'user': 'Hugo Rask',
+        'place': 27,
+        'paid': false,
+        'bookingTime': '2017-03-03 12:39:08',
+        'items': [
+            'leksaker', 
+            'kläder',
+            'böcker',
+            'dvd',
+            'porslin'
+        ]
+    },
+    {
+        'id': 2,
+        'user': 'Mona Malmsteen',
+        'place': 8,
+        'paid': true,
+        'bookingTime': '2017-02-22 11:19:37',
+        'items': [
+            'kläder'
+        ]
+    },
+    {
+        'id': 3,
+        'user': 'Gunnar String',
+        'place': 7,
+        'paid': false,
+        'bookingTime': '2017-03-13 10:23:27',
+        'items': [
+            'leksaker', 
+            'böcker',
+            'vykort',
+            'klockor'
+        ]
+    },
+    {
+        'id': 4,
+        'user': 'Abraham Wilson',
+        'place': 24,
+        'paid': true,
+        'bookingTime': '2017-03-01 22:01:02',
+        'items': [
+            'kläder',
+            'dvd',
+            'trädgårdsredskap'
+        ]
+    },
+    {
+        'id': 5,
+        'user': 'Mårten Rask',
+        'place': 21,
+        'paid': true,
+        'bookingTime': '2017-02-17 08:12:36',
+        'items': [
+            'kläder',
+            'böcker'
+        ]
+    },
+    {
+        'id': 6,
+        'user': 'Benjamin Sürza',
+        'place': 10,
+        'paid': true,
+        'bookingTime': '2017-03-09 18:51:21',
+        'items': [
+            'kläder',
+            'böcker',
+            'dvd',
+            'sällskapsspel',
+            'noter',
+            'vykort',
+            'kepsar'
+        ]
+    },
+    {
+        'id': 7,
+        'user': 'Kent Kling',
+        'place': 7,
+        'paid': false,
+        'bookingTime': '2017-03-09 11:09:24',
+        'items': [
+            'leksaker', 
+            'dvd',
+            'kassettband'
+        ]
+    },
+    {
+        'id': 8,
+        'user': 'Bertil Boo',
+        'place': 43,
+        'paid': true,
+        'bookingTime': '2017-02-28 23:32:53',
+        'items': [
+            'dvd'
+        ]
+    },
+    {
+        'id': 9,
+        'user': 'Speedo Gonzales',
+        'place': 5,
+        'paid': false,
+        'bookingTime': '2017-03-11 17:00:00',
+        'items': [
+            'badkläder',
+            'sällskapsspel'
+        ]
+    },
+    {
+        'id': 10,
+        'user': 'Filip Glas',
+        'place': 18,
+        'paid': true,
+        'bookingTime': '2017-03-02 19:24:27',
+        'items': [
+            'böcker'
+        ]
+    },
+    {
+        'id': 11,
+        'user': 'Wilhelm Stenhammar',
+        'place': 38,
+        'paid': true,
+        'bookingTime': '2017-03-08 03:15:24',        
+        'items': [
+            'böcker',
+            'dvd',
+            'kaffebröd',
+            'kaffe'
+        ]
+    },
+    {
+        'id': 12,
+        'user': 'Simon de Burgh',
+        'place': 22,
+        'paid': false,
+        'bookingTime': '2017-03-02 19:02:43',
+        'items': [
+            'böcker',
+            'tv-spel',
+            'smycken',
+            'läroböcker',
+            'kepsar'
+        ]
+    },
+    {
+        'id': 13,
+        'user': 'Dino Svensson',
+        'place': 2,
+        'paid': true,
+        'bookingTime': '2017-03-04 23:09:46',
+        'items': [
+            'dvd',
+            'vhs',
+            'hemelektronik'
+        ]
+    },
+    {
+        'id': 14,
+        'user': 'Gunnar Strong',
+        'place': 19,
+        'paid': true,
+        'bookingTime': '2017-03-11 15:34:27',
+        'items': [
+            'leksaker', 
+            'husgeråd',
+            'skor'
+        ]
+    },
+    {
+        'id': 15,
+        'user': 'Mira Singer',
+        'place': 9,
+        'paid': true,
+        'bookingTime': '2017-03-04 10:22:48',
+        'items': [
+            'skor',
+            'kläder',
+            'böcker'
+        ]
+    },
+    {
+        'id': 16,
+        'user': 'Ola Stenull',
+        'place': 11,
+        'paid': false,
+        'bookingTime': '2017-01-24 09:11:11',
+        'items': [
+            'skolböcker',
+            'köksredskap',
+            'hemelektronik',
+            'hockeykort',
+            'dvd',
+            'klockor',
+            'hifi-utrustning',
+            'frimärken'
+        ]
+    },
+]
